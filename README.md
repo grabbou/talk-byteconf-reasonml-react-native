@@ -1,6 +1,7 @@
+
 # RealReasonDemo
 
-> This is a React Native application developed in Reason.
+> This is a React Native application developed in Reason during my ByteConf talk, on 11/30/2018
 
 ## Installation
 
